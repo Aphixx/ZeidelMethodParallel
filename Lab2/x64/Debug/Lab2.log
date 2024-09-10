@@ -1,0 +1,10 @@
+﻿  Gauss-Seidel.cpp
+C:\Users\artem\Documents\OOP\OS\ZeidelMethodParrallel\Gauss-Seidel.cpp(44,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\artem\Documents\OOP\OS\ZeidelMethodParrallel\Gauss-Seidel.cpp(57,28): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\artem\Documents\OOP\OS\ZeidelMethodParrallel\Gauss-Seidel.cpp(67,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\artem\Documents\OOP\OS\ZeidelMethodParrallel\Gauss-Seidel.cpp(112,18): warning C4101: sum2: неиспользованная локальная переменная
+C:\Users\artem\Documents\OOP\OS\ZeidelMethodParrallel\Gauss-Seidel.cpp(111,28): warning C4101: k: неиспользованная локальная переменная
+C:\Users\artem\Documents\OOP\OS\ZeidelMethodParrallel\Gauss-Seidel.cpp(112,12): warning C4101: sum1: неиспользованная локальная переменная
+C:\Users\artem\Documents\OOP\OS\ZeidelMethodParrallel\Gauss-Seidel.cpp(111,31): warning C4101: n: неиспользованная локальная переменная
+C:\Users\artem\Documents\OOP\OS\ZeidelMethodParrallel\Gauss-Seidel.cpp(112,24): warning C4101: diff: неиспользованная локальная переменная
+  Lab2.vcxproj -> C:\Users\artem\Documents\OOP\OS\ZeidelMethodParrallel\x64\Debug\Lab2.exe

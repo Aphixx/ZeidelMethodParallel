@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9C9874-9B93-41F3-A3B0-DB77A815EE1B}|Lab2.vcxproj|C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\lection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC9C9874-9B93-41F3-A3B0-DB77A815EE1B}|Lab2.vcxproj|solutionrelative:lection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9C9874-9B93-41F3-A3B0-DB77A815EE1B}|Lab2.vcxproj|C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\Gauss-Seidel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC9C9874-9B93-41F3-A3B0-DB77A815EE1B}|Lab2.vcxproj|solutionrelative:Gauss-Seidel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\artem\\Documents\\OOP\\OS\\Lab2\\Lab2_Other\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9C9874-9B93-41F3-A3B0-DB77A815EE1B}|Lab2.vcxproj|C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC9C9874-9B93-41F3-A3B0-DB77A815EE1B}|Lab2.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\artem\\Documents\\OOP\\OS\\Lab2\\Lab2_Other\\tols4000.mtx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9C9874-9B93-41F3-A3B0-DB77A815EE1B}|Lab2.vcxproj|C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC9C9874-9B93-41F3-A3B0-DB77A815EE1B}|Lab2.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9C9874-9B93-41F3-A3B0-DB77A815EE1B}|Lab2.vcxproj|C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\LU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC9C9874-9B93-41F3-A3B0-DB77A815EE1B}|Lab2.vcxproj|solutionrelative:LU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9C9874-9B93-41F3-A3B0-DB77A815EE1B}|Lab2.vcxproj|C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\zeidel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC9C9874-9B93-41F3-A3B0-DB77A815EE1B}|Lab2.vcxproj|solutionrelative:zeidel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lection.cpp",
+              "DocumentMoniker": "C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\lection.cpp",
+              "RelativeDocumentMoniker": "lection.cpp",
+              "ToolTip": "C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\lection.cpp",
+              "RelativeToolTip": "lection.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T18:58:33.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gauss-Seidel.cpp",
+              "DocumentMoniker": "C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\Gauss-Seidel.cpp",
+              "RelativeDocumentMoniker": "Gauss-Seidel.cpp",
+              "ToolTip": "C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\Gauss-Seidel.cpp",
+              "RelativeToolTip": "Gauss-Seidel.cpp",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAHsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T18:43:10.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\artem\\Documents\\OOP\\OS\\Lab2\\Lab2_Other\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Lab2\\Lab2_Other\\Source.cpp",
+              "ToolTip": "C:\\Users\\artem\\Documents\\OOP\\OS\\Lab2\\Lab2_Other\\Source.cpp",
+              "RelativeToolTip": "..\\Lab2\\Lab2_Other\\Source.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-04-26T23:07:31.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tols4000.mtx",
+              "DocumentMoniker": "C:\\Users\\artem\\Documents\\OOP\\OS\\Lab2\\Lab2_Other\\tols4000.mtx",
+              "RelativeDocumentMoniker": "..\\Lab2\\Lab2_Other\\tols4000.mtx",
+              "ToolTip": "C:\\Users\\artem\\Documents\\OOP\\OS\\Lab2\\Lab2_Other\\tols4000.mtx",
+              "RelativeToolTip": "..\\Lab2\\Lab2_Other\\tols4000.mtx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001794|",
+              "WhenOpened": "2023-04-22T13:26:30.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAcwFwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T18:43:09.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LU.cpp",
+              "DocumentMoniker": "C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\LU.cpp",
+              "RelativeDocumentMoniker": "LU.cpp",
+              "ToolTip": "C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\LU.cpp",
+              "RelativeToolTip": "LU.cpp",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T18:43:10.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "zeidel.cpp",
+              "DocumentMoniker": "C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\zeidel.cpp",
+              "RelativeDocumentMoniker": "zeidel.cpp",
+              "ToolTip": "C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\zeidel.cpp",
+              "RelativeToolTip": "zeidel.cpp",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAAALIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T18:43:10.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\artem\\Documents\\OOP\\OS\\ZeidelMethodParrallel\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAAAK0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T18:43:10.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
